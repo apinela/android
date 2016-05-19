@@ -2,7 +2,7 @@
 <manifest>
 
   <!-- Include AOSP -->
-  <include name="android-6.0.1_r22.xml" />
+  <include name="android-6.0.xml" />
 
   <remote  name="github"
            fetch="https://github.com/" />
